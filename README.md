@@ -1,4 +1,6 @@
 # panic-penguin
+Aqui encontraras algunos scripts creados para el juego.
+
 Videojuego de plataformas 2D desarrollado en Godot Engine y publicado en Itch.io
 
 ## 🎮 Jugar Ahora
