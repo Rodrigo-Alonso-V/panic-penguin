@@ -3,7 +3,7 @@ Videojuego de plataformas 2D desarrollado en Godot Engine y publicado en Itch.io
 
 ## 🎮 Jugar Ahora
 Puedes probar el juego directamente en tu navegador o descargarlo para Windows en mi perfil de Itch.io:
-👉 [Enlace a tu proyecto en Itch.io](https://rovex2643.itch.io/)
+👉 https://rovex2643.itch.io/
 
 ## 🛠️ Características Técnicas y Mecánicas
 * **Movimiento y Físicas:** Implementación de mecánicas dinámicas de salto, aceleración y colisiones 2D.
